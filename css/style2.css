@@ -1,0 +1,139 @@
+* {
+    border: none;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    
+  }
+  
+  body {
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+    /* background: #1e202b; */
+    box-sizing: border-box;
+    background: #1e202b;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  ul {
+    list-style: none;
+  }
+nav img
+{
+    width: 60Px;
+}
+nav
+{
+    background: #1e202b;
+    color: aliceblue;
+}
+nav p{
+    font-size: 10px;
+    font-weight: 100;
+    
+}
+nav .tol h6{
+    font-size: 15px;
+    font-weight: 600;
+    padding-top: 5px;
+}
+
+nav ul li  a{
+   
+   color: aliceblue;
+padding:6px 15px ;
+   border-radius:30% ;
+   margin-right: 20px;
+   border: solid 2px rgba(225, 180, 180,0.0);
+   
+}
+nav ul li a:hover{
+    border: solid 2px  #009ad8;
+    color: #009ad8;
+    
+    
+ 
+    border-radius:20px ;
+    
+}
+nav ul li .tt{
+    border: solid 2px  #009ad8;
+    color: #009ad8;
+    
+    
+    border-radius:30px ;
+    margin-right: 30px;
+}
+nav .uyi{
+    
+  
+    
+    color: #bfc1c8;
+}
+
+ .poi{
+    background: #262936; ;
+    height: 50px;
+    border:solid 1px #1e202b ;
+    border-radius:20px ;
+    
+}
+.bnm{
+    background: #262936; 
+    
+}
+.but{
+    background-color: #009ad8;
+    border: solid 1px  #009ad8;
+    border-radius:20px ;
+    padding: 9px 16px;
+    color: aliceblue;
+    margin-right: 0;
+}
+footer{
+    background-color: #21242d;
+    margin-top: 200px;
+}
+
+footer .poi{
+    
+    background-color:#1e202b ;
+    height: 50px;
+    border:solid 1px #1e202b ;
+    border-radius:20px ;
+    
+}
+
+footer .qwe{
+    border: solid 1px  #009ad8;
+    background-color: #009ad8;
+    color: aliceblue;
+    border-radius:20px ;
+    padding: 9px 35px ;
+    position: relative;
+    top: 0px;
+    right: 110px;
+    bottom: 0px
+    
+}
+footer i{
+    padding: 20px 20px;
+    display: inline-block;
+    border-radius: 50%;
+    background: #1e202b;
+    color: #009ad8;
+    text-align: center;
+}
+
+footer i:hover{
+    padding: 20px 20px;
+    display: inline-block;
+    border-radius: 50%;
+    background:  #009ad8;
+    color: #f8fdff;
+    text-align: center;
+}
